@@ -1,0 +1,2 @@
+# 5412b5c99a3f9a57-dental-practice-document-appro
+Stop context-switching away from your editor to look things up. Start instant insights without breaking your focus.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Dental Practice Document Approval Workflow — fully configu
